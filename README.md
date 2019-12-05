@@ -1,5 +1,5 @@
 # shootGame
-Proyecto Final teoria
+
 Game name: Shoot Game
 
 Description:
